@@ -1,5 +1,7 @@
 /* Funciones Matemáticas para nuestro código */
 
+#include "math.h"
+
 int dobleInt(int a){
     if (a > MAX_INT){
         return -1;
